@@ -29,7 +29,7 @@ def main():
     screen.setup(b+100,a+100, 0, 0)
     screen.title ("Class demo of Turtle Graphics")
 
-    ttl.speed(3)
+    ttl.speed(8)
     ttl.penup() 
     ttl.goto(-b/2,-a/2) 
     ttl.pendown()
